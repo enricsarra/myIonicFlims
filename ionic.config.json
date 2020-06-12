@@ -1,0 +1,7 @@
+{
+  "name": "myIonicFlims",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
